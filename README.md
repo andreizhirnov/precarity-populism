@@ -1,3 +1,3 @@
-#Replication materials for _"Precarity and populism: explaining populist outlook  and populist voting in Europe through subjective  financial and work-related insecurity"_
+# Replication materials for _"Precarity and populism: explaining populist outlook  and populist voting in Europe through subjective  financial and work-related insecurity"_
 
 The repository includes the code and auxiliary datafiles necessary to reproduce the results published in "Precarity and populism: explaining populist outlook and populist voting in Europe through subjective financial and work-related insecurity" [doi:10.1093/esr/jcad052](https://doi.org/10.1093/esr/jcad052). It does not include the main survey dataset -- to obtain a copy of that dataset, please reach out to its owner, [Kieskompas](https://www.kieskompas.nl/en/), and request a copy of the "European Voter Election Studies Survey Data".
